@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.3.2
 
-* TODO: Describe initial release.
+* Updated to a stable Dart SDK version.
+* Incremented version to be greater than the last published version.

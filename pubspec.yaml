@@ -1,6 +1,6 @@
 name: async_builder
 description: "A Flutter widget that simplifies handling asynchronous operations. It provides a builder that returns a widget based on the current state of a Future."
-version: 1.0.0
+version: 1.3.2
 homepage: https://github.com/p4-k4/async_builder
 repository: https://github.com/p4-k4/async_builder
 issue_tracker: https://github.com/p4-k4/async_builder/issues
@@ -12,7 +12,7 @@ topics:
   - state-management
 
 environment:
-  sdk: ^3.9.0-196.1.beta
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
